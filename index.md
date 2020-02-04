@@ -1,12 +1,14 @@
-Hello and welcome to my blog!
 
-A place of my thought regarding my interests
 
-Machine Learning 
+Machine Learning
 
-Books reviews
+Reasoning
 
-Personal thoughts
+Musc
+
+Books
+
+Foundations of learning
 
 Thanks to Jeremy Howard for making this happen
 ![Image of fast.ai logo](images/logo.png)
